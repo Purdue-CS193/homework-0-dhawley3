@@ -1,8 +1,8 @@
 ## Drew Hawley's First CS193 Homework
 
--CS193 teaches us about valuable resources needed for CS students
--CS193 is taught by CS upperclassmen so they understand what it is like to be freshmen
--CS193 is fun
+- CS193 teaches us about valuable resources needed for CS students
+- CS193 is taught by CS upperclassmen so they understand what it is like to be freshmen
+- CS193 is fun
 
 ### Markdown
 
